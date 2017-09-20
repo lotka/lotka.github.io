@@ -1,3 +1,3 @@
 # lotka.github.io
 
-A very minimal person website.
+A very minimal personal website.
